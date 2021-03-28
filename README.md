@@ -1,6 +1,5 @@
-## Hey 👋, I'm Joris Rietveld  
+# 🐧 Hey, I'm Joris Rietveld 
   
-
 <a href="https://github.com/jorisrietveld" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -21,9 +20,8 @@
 </a>  
   
 
+## 📣 About me 
 
-
-### About me  
 I am a software developer from the Netherlands and live currently in the city Winschoten. I started programming when I wanted to create a website for my hobby, growing palm trees and bamboo. I really liked it, so switched schools. I finished it with a degree in software engineering but wanted to go a bit (no pun intended) deeper and stated learning embedded development at NHLStenden. Unfortunately I quit after 3 years because I didn't pas the Dutch spell test, that is required to get a propedeuse and to start a internschip.
 
 Long story short, I spend 7 years learning programming which I still love to do, but I dropped out of University because of Dutch Spelling. I would love to make a living on writing code and currently looking for a job.  
@@ -32,7 +30,7 @@ Long story short, I spend 7 years learning programming which I still love to do,
 <br/>  
 
 
-## Languages and Tools  
+## ❤️ Languages and Tools
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -60,7 +58,7 @@ Long story short, I spend 7 years learning programming which I still love to do,
 <br/>  
 
 
-## Github Stats  
+## 📊 Githhub Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=jorisrietveld&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -79,11 +77,3 @@ Long story short, I spend 7 years learning programming which I still love to do,
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
   
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
