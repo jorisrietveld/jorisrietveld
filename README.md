@@ -21,6 +21,8 @@
 
 <hr/>
 
+<br/>
+
 ## 📣 About me 
 
 I am a software developer from the Netherlands and live currently in the city Winschoten. I started programming when I wanted to create a website for my hobby, growing palm trees and bamboo. I really liked it, so switched schools. I finished it with a degree in software engineering but wanted to go a bit (no pun intended) deeper and stated learning embedded development at NHLStenden. Unfortunately I quit after 3 years because I didn't pas the Dutch spell test, that is required to get a propedeuse and to start a internschip.
@@ -31,7 +33,7 @@ Long story short, I spend 7 years learning programming which I still love to do,
 <br/>  
 
 
-## ❤️ Languages and Tools
+## ❤️ Languages and Tools I Use
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
