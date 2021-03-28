@@ -1,4 +1,6 @@
-# 🐧 Hey, I'm Joris Rietveld 
+# Hey, I'm Joris Rietveld 
+
+<hr/>
   
 <a href="https://github.com/jorisrietveld" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -18,7 +20,7 @@
 <a href="https://www.youtube.com/user/Qs6RPV0CFRERGLk7GrsRRA" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
-  
+
 
 ## 📣 About me 
 
