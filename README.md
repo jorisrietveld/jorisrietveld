@@ -5,8 +5,6 @@
 ![Food](https://img.shields.io/badge/Favorite%20Food-Pizza!-red) &nbsp;&nbsp;
 ![Drink](https://img.shields.io/badge/Favorite%20Drink-Beer-important) &nbsp;&nbsp;
 
-https://img.shields.io/badge/Age-25-blueviolet
-
 <a href="https://github.com/jorisrietveld" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
