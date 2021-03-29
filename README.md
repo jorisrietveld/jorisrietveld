@@ -1,7 +1,4 @@
-<p font-size="+1" align="left"> Hey, I'm Joris Rietveld</p> 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=jorisrietveld&style=flat-square&color=brightgreen&label=unsigned%20int%20profileVisitorCount%2B%2B%3B%20" />
-</p>
+# Hey, I'm Joris Rietveld <p align="right"><img src="https://komarev.com/ghpvc/?username=jorisrietveld&style=flat-square&color=brightgreen&label=unsigned%20int%20profileVisitorCount%2B%2B%3B%20" /></p>
 
 
 <a href="https://github.com/jorisrietveld" target="_blank">
