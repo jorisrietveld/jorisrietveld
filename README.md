@@ -1,5 +1,5 @@
-<p align="right"><h1> Hey, I'm Joris Rietveld</h1><img src="https://komarev.com/ghpvc/?username=jorisrietveld&style=flat-square&color=brightgreen&label=unsigned%20int%20profileVisitorCount%2B%2B%3B%20" />
-</p>
+<h1> Hey, I'm Joris Rietveld<p align="right"><img src="https://komarev.com/ghpvc/?username=jorisrietveld&style=flat-square&color=brightgreen&label=unsigned%20int%20profileVisitorCount%2B%2B%3B%20" />
+</p></h1>
 
 
 <a href="https://github.com/jorisrietveld" target="_blank">
