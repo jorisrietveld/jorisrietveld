@@ -1,6 +1,6 @@
 # Hey, I'm Joris Rietveld 
 
-![Profile views counter](https://komarev.com/ghpvc/?username=jorisrietveld&style=flat-square&color=brightgreen&label=unsigned%20int%20visitorCount%2B%2B%3B%20)
+![Profile views counter](https://komarev.com/ghpvc/?username=jorisrietveld&style=flat-square&color=brightgreen&label=unsigned%20int%20profileVisitorCount%2B%2B%3B%20)
 
 
 <a href="https://github.com/jorisrietveld" target="_blank">
