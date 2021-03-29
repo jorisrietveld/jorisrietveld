@@ -76,5 +76,5 @@ Long story short, I spend 7 years learning programming which I still love to do,
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=jorisrietveld&style=flat-square&color=brightgreen&label=UNSIGNED%20INT%20visitorCount++)  
   
