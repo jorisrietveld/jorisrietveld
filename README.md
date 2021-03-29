@@ -1,4 +1,4 @@
-# Hey, I'm Joris Rietveld <p align="center"><img src="https://komarev.com/ghpvc/?username=jorisrietveld&style=flat-square&color=brightgreen&label=unsigned%20int%20profileVisitorCount%2B%2B%3B%20" />
+<p align="right"><h1> Hey, I'm Joris Rietveld</h1><img src="https://komarev.com/ghpvc/?username=jorisrietveld&style=flat-square&color=brightgreen&label=unsigned%20int%20profileVisitorCount%2B%2B%3B%20" />
 </p>
 
 
