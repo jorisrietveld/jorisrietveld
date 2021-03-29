@@ -1,5 +1,5 @@
 # Hey, I'm Joris Rietveld <img align="right" src="https://komarev.com/ghpvc/?username=jorisrietveld&style=flat-square&color=brightgreen&label=unsigned%20int%20profileVisitorCount%2B%2B%3B%20" />
-<img align="right" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=jorisrietveld.jorisrietveld&label=unsigned%20int%20profileVisitorCount%2B%2B%3B%20&logo=GitHub&color=success&style=for-the-badge" />
+<img align="right" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=jorisrietveld.jorisrietveld&label=unsigned%20int%20profileVisitorCount%2B%2B%3B%20&logo=accenture&color=success&style=for-the-badge" />
 
 
 <a href="https://github.com/jorisrietveld" target="_blank">
