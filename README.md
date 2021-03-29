@@ -1,4 +1,4 @@
-# Hey, I'm Joris Rietveld <img align="right" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=jorisrietveld.jorisrietveld&label=unsigned%20int%20profileVisitorCount%2B%2B%3B%20&logo=github&color=success&style=for-the-badge" />
+# Hey, I'm Joris Rietveld <img align="right" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=jorisrietveld.jorisrietveld&label=unsigned%20int%20profile_visitor_count%2B%2B%3B%20&logo=github&color=success&style=for-the-badge" />
 
 
 <a href="https://github.com/jorisrietveld" target="_blank">
