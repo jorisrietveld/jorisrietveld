@@ -1,7 +1,8 @@
 # Hey, I'm Joris Rietveld 
 
-![Profile views counter](https://komarev.com/ghpvc/?username=jorisrietveld&style=flat-square&color=brightgreen&label=unsigned%20int%20visitorCount%2B%2B%3B%20)  
-  
+![Profile views counter](https://komarev.com/ghpvc/?username=jorisrietveld&style=flat-square&color=brightgreen&label=unsigned%20int%20visitorCount%2B%2B%3B%20) ![Operating System](https://img.shields.io/badge/Operating%20System-Arch%20Linux-blue?style=flat-square&logo=arch-linux)
+
+
 <a href="https://github.com/jorisrietveld" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
