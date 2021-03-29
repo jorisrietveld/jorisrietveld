@@ -3,9 +3,13 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=jorisrietveld&style=flat-square&color=brightgreen&label=unsigned%20int%20visitorCount%2B%2B%3B%20) 
 &nbsp;&nbsp;
 ![Operating System](https://img.shields.io/badge/Operating%20System-Arch%20Linux-blue?style=flat-square&logo=arch-linux)
-![Age](https://img.shields.io/badge/Age-25-blueviolet) &nbsp;&nbsp;
-![Food](https://img.shields.io/badge/Favorite%20Food-Pizza!-red) &nbsp;&nbsp;
-![Drink](https://img.shields.io/badge/Favorite%20Drink-Beer-important) &nbsp;&nbsp;
+&nbsp;&nbsp;
+![Age](https://img.shields.io/badge/Age-25-blueviolet) 
+&nbsp;&nbsp;
+![Food](https://img.shields.io/badge/Favorite%20Food-Pizza!-red) 
+&nbsp;&nbsp;
+![Drink](https://img.shields.io/badge/Favorite%20Drink-Beer-important) 
+&nbsp;&nbsp;
 
 <a href="https://github.com/jorisrietveld" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
