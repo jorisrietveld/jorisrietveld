@@ -24,7 +24,7 @@
 
 ## 📣 About me 
 
-I am a software developer from the Netherlands and live currently in the city Winschoten. I started programming when I wanted to create a website for my hobby, growing palm trees and bamboo. I really liked it, so switched schools. I finished it with a degree in software engineering but wanted to go a bit (no pun intended) deeper and stated learning embedded development at NHLStenden. Unfortunately I quit after 3 years because I didn't pas the Dutch spell test, that is required to get a propedeuse and to start a internschip.
+I am a software developer from the Netherlands and live currently in the city Winschoten. I started programming because I wanted to create a website for my bamboo, palm tree and exotic plants growing hobby. I really liked creating a state of the art CMS with complete with hardcoded credentials and modern "table based design", so I decided to switch education. After 4 years I left there with a degree in software engineering but, wanted to go a bit (no pun intended) deeper and stated learning embedded development at NHLStenden. Unfortunately I quit after 3 years because I didn't pas the Dutch spell test, that is required to get a propedeuse and to start a internschip.
 
 Long story short, I spend 7 years learning programming which I still love to do, but I dropped out of University because of Dutch Spelling. I would love to make a living on writing code and currently looking for a job.  
   
