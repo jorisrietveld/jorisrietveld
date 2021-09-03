@@ -24,9 +24,7 @@
 
 ## 📣 About me 
 
-I am a software developer from the Netherlands and live currently in the city Winschoten. I started programming because I wanted to create a website for my bamboo, palm tree and exotic plants growing hobby. I really liked creating a state of the art CMS with complete with hardcoded credentials and modern "table based design", so I decided to switch education. After 4 years I left there with a degree in software engineering but, wanted to go a bit (no pun intended) deeper and stated learning embedded development at NHLStenden. Unfortunately I quit after 3 years because I didn't pas the Dutch spell test, that is required to get a propedeuse and to start a internschip.
-
-Long story short, I spend 7 years learning programming which I still love to do, but I dropped out of University because of Dutch Spelling. I would love to make a living on writing code and currently looking for a job.  
+I am a software developer from the Netherlands and live currently in Winschoten. I started programming because I wanted to create a website for my bamboo, palm tree and exotic plants growing hobby. I really enjoyed creating a state of the art CMS, complete with hardcoded credentials and modern "table based design", so I decided to switch education from horticulture to software development. After 4 years I left there with a degree in software engineering but, wanted to go a bit deeper (no pun intended) and stated to learn about embedded development at NHLStenden. Unfortunately I quit after 3 years because I didn't pas the Dutch spell test, which is required to get a propedeuse. I deceided to move to french and work there, but moved back in 2021 to go back to univercity but this time at Hanze in groningen.  
   
 ![Operating System](https://img.shields.io/badge/Operating%20System-Arch%20Linux-blue?style=flat-square&logo=arch-linux)
 &nbsp;&nbsp;
@@ -41,8 +39,7 @@ Long story short, I spend 7 years learning programming which I still love to do,
 
 
 ## ❤️ Languages and Tools I Use
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<div align="center">    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
@@ -62,7 +59,6 @@ Long story short, I spend 7 years learning programming which I still love to do,
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/symfony_black_03.svg" alt="Symfony" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
 </div>  
 
 <br/>  
