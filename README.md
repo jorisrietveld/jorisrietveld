@@ -25,11 +25,11 @@
 
 ## 📣 About me 
 
-I am a software developer from the Netherlands and live currently in Winschoten. I started programming because I wanted to create a website for my bamboo, palm tree and exotic plants growing hobby. I really enjoyed creating a state of the art CMS, complete with hardcoded credentials and modern "table based design", so I decided to switch education from horticulture to software development. After 4 years I left there with a degree in software engineering but, wanted to go a bit deeper (no pun intended) and stated to learn about embedded development at NHLStenden. Unfortunately I quit after 3 years because I didn't pas the Dutch spell test, which is required to get a propedeuse. I deceided to move to french and work there, but moved back in 2021 to go back to univercity but this time at Hanze in groningen.  
+I am a software developer from the Netherlands and live currently in Winschoten. I started programming because I wanted to create a website for my bamboo, palm tree and exotic plants growing hobby. I really enjoyed creating a state of the art CMS, complete with hardcoded credentials and modern "table based design", so I decided to switch education from horticulture to software development. After 4 years I left there with a degree in software engineering but, wanted to go a bit deeper (no pun intended) and stated to learn about embedded development at NHLStenden. Unfortunately I quit after 3 years because I didn't pas the Dutch spell test, which is required to get a propedeuse. I deceided to move to french and work there, but moved back in 2021.  
   
 ![Operating System](https://img.shields.io/badge/Operating%20System-Arch%20Linux-blue?style=flat-square&logo=arch-linux)
 &nbsp;&nbsp;
-![Age](https://img.shields.io/badge/Age-25-blueviolet) 
+![Age](https://img.shields.io/badge/Age-26-blueviolet) 
 &nbsp;&nbsp;
 ![Food](https://img.shields.io/badge/Favorite%20Food-Pizza!-red) 
 &nbsp;&nbsp;
