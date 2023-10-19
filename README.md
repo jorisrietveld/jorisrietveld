@@ -68,12 +68,12 @@ and get back up to speed with the latest chances in the past 3 years.
 
 ## 📊 Githhub Stats  
 <table><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorisrietveld&hide_border=true&langs_count=20" align="left" style="width: 100%" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=jorisrietveld&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorisrietveld&hide_border=true&langs_count=20" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=jorisrietveld&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
