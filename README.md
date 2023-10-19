@@ -75,7 +75,7 @@ and get back up to speed with the latest chances in the past 3 years.
 
 <img src="https://github-readme-stats.vercel.app/api?username=jorisrietveld&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="left" style="width: 100%" />
 
-[![Joris wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jorisrietveld)](https://github.com/anuraghazra/github-readme-stats&layout=layout)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=jorisrietveld" align="left" style="width: 100%"/>
 </td></tr></table>  
 
 <br/>  
