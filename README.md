@@ -67,6 +67,7 @@ and get back up to speed with the latest chances in the past 3 years.
 
 
 ## 📊 Githhub Stats  
+[![trophy](https://github-profile-trophy.vercel.app/?username=jorisrietveld&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 <table><tr><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorisrietveld&hide_border=true&langs_count=20&theme=transparent" align="left" style="width: 100%" />
 
@@ -77,7 +78,6 @@ and get back up to speed with the latest chances in the past 3 years.
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jorisrietveld" align="left" style="width: 100%"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jorisrietveld&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 </td></tr></table>  
 
 <br/>  
