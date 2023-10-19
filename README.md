@@ -75,7 +75,7 @@ and get back up to speed with the latest chances in the past 3 years.
 
 <img src="https://github-readme-stats.vercel.app/api?username=jorisrietveld&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="left" style="width: 100%" />
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=jorisrietveldmargin-w=15" align="left" style="width: 100%"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=jorisrietveldmargin-w=15&no-bg=true" align="left" style="width: 100%"/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jorisrietveld)](https://github.com/ryo-ma/github-profile-trophy)
 </td></tr></table>  
