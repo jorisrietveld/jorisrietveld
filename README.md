@@ -30,7 +30,7 @@ and get back up to speed with the latest chances in the past 3 years.
   
 ![Operating System](https://img.shields.io/badge/Operating%20System-Arch%20Linux-blue?style=flat-square&logo=arch-linux)
 &nbsp;&nbsp;
-![Age](https://img.shields.io/badge/Age-27-blueviolet) 
+![Age](https://img.shields.io/badge/Age-28-blueviolet) 
 &nbsp;&nbsp;
 ![Food](https://img.shields.io/badge/Favorite%20Food-Pizza!-red) 
 &nbsp;&nbsp;
@@ -73,7 +73,7 @@ and get back up to speed with the latest chances in the past 3 years.
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorisrietveld&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorisrietveld&hide_border=true&langs_count=20" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
