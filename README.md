@@ -30,11 +30,9 @@ and get back up to speed with the latest chances in the past 3 years.
   
 ![Operating System](https://img.shields.io/badge/Operating%20System-Arch%20Linux-blue?style=flat-square&logo=arch-linux)
 &nbsp;&nbsp;
-![Age](https://img.shields.io/badge/Age-28-blueviolet) 
+![Age](https://img.shields.io/badge/Age-29-blueviolet) 
 &nbsp;&nbsp;
 ![Food](https://img.shields.io/badge/Favorite%20Food-Pizza!-red) 
-&nbsp;&nbsp;
-![Drink](https://img.shields.io/badge/Favorite%20Drink-Beer-important) 
 &nbsp;&nbsp;
 
 <br/>  
